@@ -1,0 +1,17 @@
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\bin\Debug\BonusProje1.exe.config
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\bin\Debug\BonusProje1.exe
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\bin\Debug\BonusProje1.pdb
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.AssemblyReference.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.Form1.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.Properties.Resources.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.GenerateResource.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.exe
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.pdb
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.frmOgrenciNotlar.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.frmOgretmen.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.frmKulup.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.frmDersler.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.frmOgrenci.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\BonusProje1\BonusProje1\obj\Debug\BonusProje1.frmSinavNotlar.resources
